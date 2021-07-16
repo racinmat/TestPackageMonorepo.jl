@@ -1,0 +1,4 @@
+name = "TestPackageSubDir1"
+uuid = "a999968d-f495-407e-84d2-b3690cea34d0"
+authors = ["Matěj Račinský <matej.racinsky@avast.com>"]
+version = "0.0.1"
